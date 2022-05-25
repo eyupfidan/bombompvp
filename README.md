@@ -1,5 +1,5 @@
 
-# Mintank Bombom Pvp Server Website
+# Bombom Pvp Server Website
 
 I create the website of ddtank, a 2D online game. The purpose of the website is to provide information about newly opened or ongoing ddtank pvp servers for players.
  
