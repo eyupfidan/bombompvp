@@ -17,3 +17,11 @@ I create the website of ddtank, a 2D online game. The purpose of the website is 
 # Add List
 
 ![Homepage](https://raw.githubusercontent.com/eyupfidan/bombompvp/master/for-readme/add-list.png)
+
+## Used Technologies
+
+**Frontend:** HTML5, CSS, Jquery, Axios
+
+**Backend:** PHP 7.4
+
+**Server:** Nginx, Cpanel, Cloudlinux
